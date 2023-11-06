@@ -9,4 +9,4 @@ Example how it would look: https://javascript-calculator.freecodecamp.rocks/.
 2. Build a Markdown Previewer. https://github.com/The-Aldi-Tri/markdown-previewer.
 3. Build a Drum Machine. https://github.com/The-Aldi-Tri/drum-machine.
 4. Build a JavaScript Calculator. https://github.com/The-Aldi-Tri/javascript-calculator.
-5. Build a 25 + 5 Clock.
+5. Build a 25 + 5 Clock. https://github.com/The-Aldi-Tri/25plus5-clock.
